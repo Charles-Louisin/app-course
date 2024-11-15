@@ -80,7 +80,7 @@ export default function InstructorsList({ instructors, courses, isAdmin, readOnl
                 Email
               </th>
               <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                Date d'embauche
+                Date d&apos;embauche
               </th>
               <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                 Cours enseignés

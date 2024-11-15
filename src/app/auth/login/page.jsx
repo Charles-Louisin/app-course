@@ -70,7 +70,7 @@ export default function Login() {
             </div>
             <div>
               <label htmlFor="userType" className="block text-sm font-medium text-gray-700 mb-1">
-                Type d'utilisateur
+                Type d&apos;utilisateur
               </label>
               <select
                 id="userType"
